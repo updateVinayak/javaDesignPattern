@@ -1,0 +1,2 @@
+It allows 2 incompatible interfaces to work together.
+Used when client expect a (target) interface. The adapter class allows the user of avalaible interface

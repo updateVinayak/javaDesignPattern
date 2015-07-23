@@ -1,4 +1,4 @@
-package com.abstractfactory;
+package com.creational.abstractfactory;
 
 public class BrioCar implements Car{
 

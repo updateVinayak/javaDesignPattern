@@ -1,3 +1,8 @@
+Singleton Pattern
+
+The is pattern is used when we want to eliminate the option of instantiating more than one instance of the class
+There will be only one instance of the class.  
+
 Builder Pattern
 
 Use this pattern in order to create complex object that is independent of the parts that makes up that object and how those parts are created.

@@ -1,7 +1,15 @@
 Builder Pattern
 
---- Use this pattern in order to create complex object that is independent of the parts that makes up that object and how those parts are created.
---- When this pattern is used, complex object is constructed step-by-step, where as other creational patterns like the factory pattern where objects are created in one single step  
+Use this pattern in order to create complex object that is independent of the parts that makes up that object and how those parts are created.
+When this pattern is used, complex object is constructed step-by-step, where as other creational patterns like the factory pattern where objects are created in one single step  
+
+
+Prototype Pattern
+
+
+Create New object by cloning /copying other object
+Allowed to add any subclass instance of the known super class at run time
+It reduces the need of creating object of subclasses by using the  word "new" 
 
 
 

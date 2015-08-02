@@ -11,7 +11,6 @@ When this pattern is used, complex object is constructed step-by-step, where as 
 
 Prototype Pattern
 
-
 Create New object by cloning /copying other object
 Allowed to add any subclass instance of the known super class at run time
 It reduces the need of creating object of subclasses by using the  word "new" 
@@ -22,3 +21,9 @@ Adapter Pattern
 
 It allows 2 incompatible interfaces to work together.
 Used when client expect a (target) interface. The adapter class allows the user of avalaible interface
+
+
+Proxy Pattern
+
+Provide a class which will limit the access to actual object. the reason can be security because the object is expensive to create 
+

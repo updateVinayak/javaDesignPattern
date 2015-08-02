@@ -1,4 +1,4 @@
-package com.structral.adapter;
+package com.structural.adapter;
 
 public class TestEnemyAdaptor {
 
